@@ -1,0 +1,11 @@
+﻿<Window x:Class="Practices4.Views.VersionView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding Title}" SizeToContent="WidthAndHeight">
+    <StackPanel Margin="10">
+        <TextBlock Text="{Binding ProductName}" FontSize="20" TextAlignment="Center" />
+        <TextBlock Text="{Binding Version}" TextAlignment="Center" />
+        <Separator />
+        <TextBlock Text="{Binding Copyright}" TextAlignment="Center" />
+    </StackPanel>
+</Window>
