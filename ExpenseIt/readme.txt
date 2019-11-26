@@ -1,3 +1,3 @@
-MSのチュートリアルプロジェクト(ExpenseIt）
-一旦動く程度にはなっている。
-EntityFrameworkを利用したデータの取得を試してみたいが、自宅環境でないと出来ない
+This is based on Tutorial Project(ExpenseIt) from Microsoft.
+It's work for the time being.
+I want to practice getting data by EntitiyFramework, but I can do it only own environment...
