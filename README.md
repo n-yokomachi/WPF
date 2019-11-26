@@ -1,2 +1,2 @@
 # WPF
-WPFを試してみたやつ
+WPF Tutorials
